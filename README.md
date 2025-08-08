@@ -29,9 +29,6 @@ Ulcervision/
 ├── models/                 # Pretrained and fine-tuned models
 ├── dataset/                # Augmented dataset (not included here)
 ├── notebooks/              # Jupyter notebooks for training and evaluation
-├── fusion/                 # Decision-level fusion logic (voting, stacking, etc.)
-├── utils/                  # Helper scripts for preprocessing and evaluation
-├── results/                # Evaluation metrics, confusion matrices, ROC curves
 ├── README.md
 └── requirements.txt
 ```
