@@ -26,11 +26,14 @@ Unlike prior research that focused on binary or low-class classification, this p
 ```
 Ulcervision/
 │
-├── models/                 # Pretrained and fine-tuned models
-├── dataset/                # Augmented dataset (not included here)
+├── dataset/                 # Pretrained and fine-tuned models
+├── models/                # Augmented dataset (not included here)
 ├── notebooks/              # Jupyter notebooks for training and evaluation
-├── README.md
-└── requirements.txt
+├── .gitattributes/
+├── .gitignore.txt/
+├── README.md/
+├── report.pdf/
+└── requirements.txt/
 ```
 
 ## 🔍 Methodology
@@ -117,7 +120,7 @@ Ulcervision: Smart Foot Ulcer Multi-Class Detection using Decision-Level Fusion,
 
 ## 🤝 Acknowledgments
 
-- Dataset: [AZH Chronic Wound Dataset]([https://github.com/....](https://github.com/uwm-bigdata/wound-classification-using-images-and-locations/tree/main/dataset)  
+- Dataset: [AZH Chronic Wound Dataset](https://github.com/uwm-bigdata/wound-classification-using-images-and-locations/tree/main/dataset)
 - Supervisor: Miss Sania Urooj  
 - Contributors: Muhammad Mushtaq, Abbas Mustafa, Saleh Shamoon
 
