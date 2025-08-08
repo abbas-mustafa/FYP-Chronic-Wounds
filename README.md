@@ -117,7 +117,7 @@ Ulcervision: Smart Foot Ulcer Multi-Class Detection using Decision-Level Fusion,
 
 ## 🤝 Acknowledgments
 
-- Dataset: [AZH Chronic Wound Dataset](https://github.com/....)  
+- Dataset: [AZH Chronic Wound Dataset]([https://github.com/....](https://github.com/uwm-bigdata/wound-classification-using-images-and-locations/tree/main/dataset))  
 - Supervisor: Miss Sania Urooj  
 - Contributors: Muhammad Mushtaq, Abbas Mustafa, Saleh Shamoon
 
